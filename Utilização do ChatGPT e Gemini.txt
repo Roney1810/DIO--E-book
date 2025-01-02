@@ -1,0 +1,11 @@
+Utilização do ChatGPT.
+1 Prompt para o conteúdo
+"Conte a história da Caixa Econômica Federal, para um ebook, desde sua criação em 1861 até 2024. Divida sua história em 4 capítulos: anos  1861-1900, 1901-1950, 1951-2000 e 2001 a 2024. Destaque os principais projetos e forma de atuação do banco em cada período. Acentue o papel no desenvolvimento do Brasil. Fonte a ser consultada, mas não precisa ser a única: https://www.caixa.gov.br/Paginas/home-caixa.aspx"
+2- Prompt para o titulo do e-book
+"Sugira um título que seja bem legal e interessante para esse e-book"
+3- Prompt para um capítulo específico 
+"Para o e-book preciso que seja destacado o papel da Caixa durante a pandemia de covid 19"
+
+Utilização do GEMINI
+1 Prompt para o conteúdo
+"Crie uma imagem com o mapa do Brasil ao fundo com os dizeres centralizado de Desenvolvimento e Inclusão"
